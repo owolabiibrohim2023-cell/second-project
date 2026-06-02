@@ -6,8 +6,8 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview"
-     "build": "your-build-command"
+    "preview": "vite preview",
+     
   },
   "dependencies": {
     "clsx": "2.1.1",
